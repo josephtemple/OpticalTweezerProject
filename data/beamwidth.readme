@@ -1,1 +1,5 @@
 Power is measured in mW, position in mm
+
+Data was taken using the knife edge technique, slowly uncovering a beam with a razor blade and having it hit a power detector. As more and more of the beam is uncovered,
+we are effectively taking the integral under the beam's intensity profile. By measuring the power as we uncover the beam, we can plot power as a function of position, then
+take the DERIVATIVE of that graph to find the beam profile.
